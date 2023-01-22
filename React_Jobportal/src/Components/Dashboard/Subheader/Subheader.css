@@ -1,0 +1,347 @@
+.subheader
+{
+    Width :1538px;
+Height :314px;
+Top : 114px;
+Left : 94px;
+
+}
+
+.head1
+{
+   Width :  102px;
+    Height :  46px;
+display: flex;
+    justify-items: center;
+}
+.sections{
+    display: flex;
+    flex-direction: row;
+}
+.sec1a
+{
+   background-color: blueviolet;
+    Width : 200.5px;
+Height : 75px;
+border-radius : 7.5px;
+display: flex;
+justify-items: center;
+align-items: center;
+justify-content: center;
+column-gap : 20px;
+}
+.sec1a>img
+{
+    width: 39px;
+    height: 39px;
+   
+}
+.sec1b>img
+{
+    width: 39px;
+    height: 39px;
+   
+}
+.sec1c>img
+{
+    width: 39px;
+    height: 39px;
+   
+}
+.sec1d>img
+{
+    width: 39px;
+    height: 39px;
+   
+}
+.sec1b
+{
+    background-color: brown;
+    Width : 200.5px;
+Height : 75px;
+justify-content: center;
+border-radius : 7.5px;
+display: flex;
+justify-items: center;
+align-items: center;
+Gap : 15px;
+}
+.sec1d
+{
+    background-color:chartreuse;
+    Width : 200.5px;
+Height : 75px;
+justify-content: center;
+border-radius : 7.5px;
+display: flex;
+justify-items: center;
+align-items: center;
+Gap : 15px;
+}
+
+.sec1acol
+{
+    Width :117px;
+Height :17vh;
+justify-content: center;
+justify-items: center;
+align-items: center;
+
+
+}
+.sec1dcol
+{
+    Width :117px;
+Height :17vh;
+justify-content: center;
+justify-items: center;
+align-items: center;
+
+
+}
+.sec1ccol
+{
+    Width :117px;
+Height :17vh;
+justify-content: center;
+justify-items: center;
+align-items: center;
+
+
+}
+.sec1bcol
+{
+    Width :117px;
+Height :17vh;
+justify-content: center;
+justify-items: center;
+align-items: center;
+
+
+}
+.sec1c
+{
+    background-color: blue;
+    Width : 200.5px;
+Height : 75px;
+justify-content: center;
+border-radius : 7.5px;
+
+justify-items: center;
+align-items: center;
+Gap : 15px;
+display: flex;
+}
+.Ind {
+    position: relative;
+    display: inline-block;
+    
+    Width : 24px;
+    Height :24px;
+  }
+  
+  .Inddropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 5px 5px;
+    z-index: 1;
+  }
+  
+  .Ind:hover .Inddropdown-content {
+    display: block;
+  }
+  .head4
+{
+   Width :  809px;
+    Height :  26px;
+display: flex;
+   
+    background-color: lightseagreen;
+
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: small;
+    
+
+
+}
+.Loc {
+    position: relative;
+    display: inline-block;
+
+    Width : 58px;
+    Height :24px;
+  }
+  
+  .Locdropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .Loc:hover .Locdropdown-content {
+    display: block;
+  }
+  .Type {
+    position: relative;
+    display: inline-block;
+    
+    Width : 68px;
+    Height :24px;
+  }
+  
+  .Typedropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .Type:hover .Typedropdown-content {
+    display: block;
+  }
+  .Date {
+    position: relative;
+    display: inline-block;
+    
+    Width : 89px;
+    Height :24px;
+  }
+  
+  .Datedropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .Date:hover .Datedropdown-content {
+    display: block;
+  }
+  .Job {
+    position: relative;
+    display: inline-block;
+    border: black;
+    border-color: black;
+    Width : 58px;
+    Height :24px;
+  }
+  
+  .Jobdropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .Job:hover .Jobdropdown-content {
+    display: block;
+  }
+  .head5
+  {
+    height: 128px;
+    width: 24px;
+    border-radius: 10px;
+   
+    
+  }
+  .head5t
+  {
+    Width : 229px;
+    Height :36px;
+    
+  }
+.head5ta
+{
+  display: flex;
+  Width : 1594px;
+Height : 54px;
+Top : 55px;
+Gap : 58px;
+background-color: royalblue;
+align-items: center;
+}
+  .head5da{
+    display: flex;
+    Width : 200px;
+    Height : 25px;
+    Top : 3px;
+    Left : 29px;
+    background-color: aliceblue;
+    text-align: center;
+  }
+  
+  .head5da>img
+  {
+    Width:25px;
+Height :25px;
+Top :6.5px;
+Left:9.5px;
+  }
+   .head5db{
+    display: flex;
+    Width : 229px;
+    Height : 35px;
+    Top : 3px;
+    Left : 29px;
+    background-color: aliceblue;
+    text-align: start;
+  }
+  .head5db>img
+  {
+    Width:25px;
+Height :25px;
+Top :6.5px;
+Left:9.5px;
+
+  }
+  .head5dc{
+    display: flex;
+    Width : 229px;
+    Height : 35px;
+    Top : 3px;
+    Left : 29px;
+    background-color: aliceblue;
+    text-align: start;
+  }
+  .head5dc>img
+  {
+    Width:25px;
+Height :25px;
+Top :6.5px;
+Left:9.5px;
+
+  }
+  .head5dd{
+    display: flex;
+    Width : 229px;
+    Height : 35px;
+    Top : 3px;
+    Left : 29px;
+    background-color: aliceblue;
+    text-align: start;
+  }
+  .head5dd>img
+  {
+    Width:25px;
+Height :25px;
+Top :6.5px;
+Left:9.5px;
+
+  }
